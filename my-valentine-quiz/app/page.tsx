@@ -29,7 +29,7 @@ const config = {
       mainGif: "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2V4aGdkNnM4NWZwb3N4d2I0aHd6aHVsOGN5bG9mZmlzb2lza29wNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XCm6aoloWyUkwUuqkf/giphy.gif",
       correctMsg: "Correct! Let's go get some tonight! 👅",
       correctGif: "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWpocnZzejlmODVzYTdqcW9uMXRhbTF3NXhjMnNraWFrbHF2ZnhzMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7IHaFYgTgCICI/giphy.gif",
-      wrongMsg: "Ofc You baby! You're My favorite meal 🤤🤤 Choose wisely",
+      wrongMsg: "You're My favorite meal 🤤🤤 Choose wisely",
       wrongGif: "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDRmemp5MmE2MzZ0MG53ZzFlOHUzcDBtem85dGR5MGNvZ2N0cTJ5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4Js22dmcqKkvPrqXJ0/giphy.gif",
     },
     {
@@ -39,7 +39,7 @@ const config = {
       mainGif: "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDRmemp5MmE2MzZ0MG53ZzFlOHUzcDBtem85dGR5MGNvZ2N0cTJ5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3lxoqLn8N5ETCWpU9u/giphy.gif",
       correctMsg: "I'm the luckiest guy in the world! ❤️ 2nd option is also correct but I can't say it here 😆",
       correctGif: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY4MTBiNjBqYzRrcmMxaG1icTkybDI3MjV5NTlnMmhicm52eDBobCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vxzVCmsyJrDu7N87Tc/giphy.gif",
-      wrongMsg: "Yeah this is also right but Correct answer is not this baby 😆",
+      wrongMsg: "Yeah this is also right but, Correct answer is not this babe 😆",
       wrongGif: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxpYWpxNDYzNmN3ejVpbW5waHJ1ZXhsZW9nM2NwazN3a3NmMjlzNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rZckIoG1PtKne/giphy.gif",
     },
     {
@@ -77,7 +77,7 @@ const config = {
       options: ["Kiss you aggresively", "Throw you on bed", "Tease you playfully", "Stare into your eyes and tell you how much I love you"],
       correct: 3, 
       mainGif: "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2U1NHIwbzR2N3VvMGU5MnNkbm9raXh2YWF5amx2dGxnbDBkZnU2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Jh9nrMk6DPPAJGjHa9/giphy.gif",
-      correctMsg: "Huging you so tightly 🫂",
+      correctMsg: "Hugg you so tightly 🫂",
       correctGif: "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3U3azdqcm5qcGR1anh5ZGxxeXl4YTF2eXh3eTJxNmsyN3RueDM1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YxKXWOhTSq8I14NKEn/giphy.gif",
       wrongMsg: "Wrong! But I would still do all of these things to you 😆",
       wrongGif: "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTJmeThydHp6NGp2cjA2NndvY3o2djBqeTh2NnNmeXZnczU0ajg5OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/muGZBielMqTChoxkC6/giphy.gif",
