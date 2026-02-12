@@ -3,9 +3,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import confetti from "canvas-confetti";
 
-// --------------------------------------------
-// CONFIGURATION
-// --------------------------------------------
+
 const config = {
   welcome: {
     title: "Hey Beautiful! ❤️",
